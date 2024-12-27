@@ -1,0 +1,151 @@
+{
+  "Image": {
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/soddataset/ECSSD/image",
+      "suffix": ".jpg"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/soddataset/PASCAL-S/image",
+      "suffix": ".jpg"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/soddataset/HKU-IS/image",
+      "suffix": ".png"
+    },
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/soddataset/DUT-OMRON/image",
+      "suffix": ".jpg"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/soddataset/DUTS-TE/image",
+      "suffix": ".jpg"
+    }
+  },
+  "GT": {
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/soddataset/ECSSD/Mask",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/soddataset/PASCAL-S/Mask",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/soddataset/HKU-IS/Mask",
+      "suffix": ".png"
+    },
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/soddataset/DUT-OMRON/Mask",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/soddataset/DUTS-TE/Mask",
+      "suffix": ".png"
+    }
+  },
+  "Ours": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/ours/results/DUT-OMRON/ERNet",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/ours/results/DUTS-TE/ERNet",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/ours/results/ECSSD/ERNet",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/ours/results/HKU-IS/ERNet",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/ours/results/PASCAL-S/ERNet",
+      "suffix": ".png"
+    },
+    "SOD": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/ours/results/SOD/ERNet",
+      "suffix": ".png"
+    }
+  },
+  "ERM": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/er/preds/DUT-O/JJY",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/er/preds/DUTS/JJY",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/er/preds/ECSSD/JJY",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/er/preds/HKU-IS/JJY",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/er/preds/PASCAL-S/JJY",
+      "suffix": ".png"
+    },
+    "SOD": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/er/preds/SOD/JJY",
+      "suffix": ".png"
+    }
+  },
+  "NLFEM": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/nlf/preds/DUT-O/JJY",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/nlf/preds/DUTS/JJY",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/nlf/preds/ECSSD/JJY",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/nlf/preds/HKU-IS/JJY",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/nlf/preds/PASCAL-S/JJY",
+      "suffix": ".png"
+    },
+    "SOD": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/nlf/preds/SOD/JJY",
+      "suffix": ".png"
+    }
+  },
+  "Loss": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/non/preds/DUT-O/JJY",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/non/preds/DUTS/JJY",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/non/preds/ECSSD/JJY",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/non/preds/HKU-IS/JJY",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/non/preds/PASCAL-S/JJY",
+      "suffix": ".png"
+    },
+    "SOD": {
+      "path": "/Users/jjy/Desktop/Non-local Feature Enhencement and Edge Reconstruction/non/preds/SOD/JJY",
+      "suffix": ".png"
+    }
+  }
+}
+  

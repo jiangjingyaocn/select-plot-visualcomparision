@@ -1,0 +1,24 @@
+{
+     "DUTS-TE": {
+        "namelist": [
+             "ILSVRC2012_test_00010193",
+            "ILSVRC2012_test_00005297",
+            "ILSVRC2012_test_00005611"
+        ]
+    },
+        "HKU-IS": {
+        "namelist": [
+            "0324",
+            "0927",
+            "8061"
+
+        ]
+    },
+    "DUT-OMRON": {
+        "namelist": [
+            "sun_dltvhvesmsmilpam",
+            "sun_adebvislrxybuvnc",
+            "sun_altqhwdkhhelfrdm"
+        ]
+    }
+}

@@ -1,0 +1,274 @@
+{
+   "Image": {
+      "ECSSD": {
+          "path": "/Users/jjy/Desktop/memory/data/latermap/ECSSD/image",
+          "suffix": ".jpg"
+      },
+      "PASCAL-S": {
+          "path": "/Users/jjy/Desktop/memory/data/latermap/PASCAL-S/image",
+          "suffix": ".jpg"
+      },
+      "HKU-IS": {
+          "path": "/Users/jjy/Desktop/memory/data/latermap/HKU-IS/image",
+          "suffix": ".png"
+      },
+      "DUT-OMRON": {
+          "path": "/Users/jjy/Desktop/memory/data/latermap/DUT-OMRON/image",
+          "suffix": ".jpg"
+      },
+      "DUTS-TE": {
+          "path": "/Users/jjy/Desktop/memory/data/latermap/DUTS-TE/image",
+          "suffix": ".jpg"
+      }
+  },
+  "GT": {
+  "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/ECSSD/Mask",
+      "suffix": ".png"
+  },
+  "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/PASCAL-S/Mask",
+      "suffix": ".png"
+  },
+  "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/HKU-IS/Mask",
+      "suffix": ".png"
+  },
+  "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUT-OMRON/Mask",
+      "suffix": ".png"
+  },
+  "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUTS-TE/Mask",
+      "suffix": ".png"
+  }
+  },
+  "Ours": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/ERNet/ours/results/DUT-OMRON/ERNet",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/ERNet/ours/results/DUTS-TE/ERNet",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/ERNet/ours/results/ECSSD/ERNet",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/ERNet/ours/results/HKU-IS/ERNet",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/ERNet/ours/results/PASCAL-S/ERNet",
+      "suffix": ".png"
+    },
+    "SOD": {
+      "path": "/Users/jjy/Desktop/memory/data/ERNet/ours/results/SOD/ERNet",
+      "suffix": ".png"
+    }
+  },
+  "DC-Net": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/soddataset/DC-Net/results/DC-Net-R/DUT-OMRON",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/soddataset/DC-Net/results/DC-Net-R/DUTS-TE",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/soddataset/DC-Net/results/DC-Net-R/ECSSD",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/soddataset/DC-Net/results/DC-Net-R/HKU-IS",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/soddataset/DC-Net/results/DC-Net-R/PASCAL-S",
+      "suffix": ".png"
+    },
+    "SOD": {
+      "path": "/Users/jjy/Desktop/soddataset/DC-Net/results/DC-Net-R/SOD",
+      "suffix": ".png"
+    }
+  },
+  "CANet": {
+     "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/CANet/DUT-OMRON",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/CANet/DUTS",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/CANet/ECSSD",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/CANet/HKU-IS",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/CANet/PASCAL-S",
+      "suffix": ".png"
+    }
+  },
+    "OLER": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/soddataset/OLER/results/OLER-R/DUT-OMRON",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/soddataset/OLER/results/OLER-R/DUTS",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/soddataset/OLER/results/OLER-R/ECSSD",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/soddataset/OLER/results/OLER-R/HKU-IS",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/soddataset/OLER/results/OLER-R/PASCAL-S",
+      "suffix": ".png"
+        }
+  },
+    "ICON": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUT-OMRON/ICON-V",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUTS-TE/ICON-V",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/ECSSD/ICON-V",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/HKU-IS/ICON-V",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/PASCAL-S/ICON-V",
+      "suffix": ".png"
+    }
+  },
+    "EDN": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUT-OMRON/EDN-VGG16",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUTS-TE/EDN-VGG16",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/ECSSD/EDN-VGG16",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/HKU-IS/EDN-VGG16",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/PASCAL-S/EDN-VGG16",
+      "suffix": ".png"
+    }
+  },
+    "VST": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUT-OMRON/VST",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUTS-TE/VST",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/ECSSD/VST",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/HKU-IS/VST",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/PASCAL-S/VST",
+      "suffix": ".png"
+    }
+  },
+  "CTDNet": {
+   "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/CTDNet-50/CTDNet-50_results/DUT-OMRON",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/CTDNet-50/CTDNet-50_results/DUTS",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/CTDNet-50/CTDNet-50_results/ECSSD",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/CTDNet-50/CTDNet-50_results/HKU-IS",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/CTDNet-50/CTDNet-50_results/PASCAL-S",
+      "suffix": ".png"
+    }
+  },
+  "SCRN": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/SCRN/saliency_maps/DUT-OMRON",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/SCRN/saliency_maps/DUTS-TEST",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/SCRN/saliency_maps/ECSSD",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/SCRN/saliency_maps/HKU-IS",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/SCRN/saliency_maps/PASCAL-S",
+      "suffix": ".png"
+    }
+  },
+  "BASNet": {
+    "DUT-OMRON": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUT-OMRON/BASNet",
+      "suffix": ".png"
+    },
+    "DUTS-TE": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/DUTS-TE/BASNet",
+      "suffix": ".png"
+    },
+    "ECSSD": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/ECSSD/BASNet",
+      "suffix": ".png"
+    },
+    "HKU-IS": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/HKU-IS/BASNet",
+      "suffix": ".png"
+    },
+    "PASCAL-S": {
+      "path": "/Users/jjy/Desktop/memory/data/latermap/PASCAL-S/BASNet",
+      "suffix": ".png"
+    }
+  }
+}
